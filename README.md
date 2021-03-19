@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcolejd%2Fcolejd&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=you+are+visitor+number&edge_flat=true)](https://hits.seeyoufarm.com)
 
 <!--
 **colejd/colejd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 It takes about 86 million beans to fill up an average elevator cab.
 
-![beans-yes](https://user-images.githubusercontent.com/702432/111728549-77430780-8843-11eb-80ba-2ba46e26a98c.jpg)
+![Just like a ton of beans](https://user-images.githubusercontent.com/702432/111728549-77430780-8843-11eb-80ba-2ba46e26a98c.jpg)
