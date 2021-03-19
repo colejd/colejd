@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+It takes about 86 million beans to fill up an average elevator cab.
+
+![beans-yes](https://user-images.githubusercontent.com/702432/111728549-77430780-8843-11eb-80ba-2ba46e26a98c.jpg)
