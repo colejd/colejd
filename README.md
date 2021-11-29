@@ -1,5 +1,3 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcolejd%2Fcolejd&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=you+are+visitor+number&edge_flat=true)](https://hits.seeyoufarm.com)
-
 <!--
 **colejd/colejd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,3 +16,17 @@ Here are some ideas to get you started:
 It takes about 86 million beans to fill up an average elevator cab.
 
 ![Just like a ton of beans](https://user-images.githubusercontent.com/702432/111728549-77430780-8843-11eb-80ba-2ba46e26a98c.jpg)
+
+<a href="https://github.com/colejd">
+  <img src="https://komarev.com/ghpvc/?username=colejd&color=yellow&label=You+are+visitor+number" alt="profile views" />
+</a>
+
+---
+
+A lot of the things on this account are JS toys I work on in my spare time. I'm an iOS / computer vision engineer by trade.
+
+Ask me about:
+- Swift, iOS, UIKit, SwiftUI, Metal, ARKit -- really any Apple thing
+- AR
+- VR
+- Computer Vision, OpenCV
