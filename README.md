@@ -23,7 +23,7 @@ It takes about 86 million beans to fill up an average elevator cab.
 
 ---
 
-A lot of the things on this account are JS toys I work on in my spare time. I'm an iOS / computer vision engineer by trade.
+A lot of the things on this account are JS toys I work on in my spare time. I'm an iOS / VR engineer by trade.
 
 Ask me about:
 - Swift, iOS, UIKit, SwiftUI, Metal, ARKit -- really any Apple thing
